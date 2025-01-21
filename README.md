@@ -58,13 +58,6 @@ src/
 ├── test/  # Pruebas unitarias e integración
 ```
 
-## 📖 Opciones al ejecutar el programa
-### Menú Principal
-![Menu principal](assets/menu.png)
-
-### Submenú
-![Submenu](assets/submenu.png)
-
 ---
 ### 💻 Desarrollado por:
 - Nombre: Oriana Belen Aguilar
